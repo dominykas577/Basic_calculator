@@ -8,8 +8,7 @@ The project was coded on program Code::Blocks. Therefore it can be run on Code::
 To install just follow the instructions provided by https://www.codeblocks.org/
 
 Installing:
-1)Make a new project, console application.
-2).....
+
 
 
 
