@@ -1,6 +1,19 @@
 # Basic_calculator
-Calculator in C++. Add, subtract, multiply, divide.
+
+Project Title:
+This is my first programming project. It is a calculator made on C++ programming language. The program can add, subtract, multiply and divide.
+
+Prerequisites - what things to install and how to install:
+The project was coded on program Code::Blocks. Therefore it can be run on Code::Blocks. It can be downloaded here: https://www.codeblocks.org/
+To install just follow the instructions provided by https://www.codeblocks.org/
+
+Installing:
+1)Make a new project, console application.
+2).....
+
+
+
 
 How to run:
 1. Just run it 
-2. Enjoy!
+2. Enjoy! 
