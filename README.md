@@ -13,6 +13,3 @@ Installing:
 
 
 
-How to run:
-1. Just run it 
-2. Enjoy! 
